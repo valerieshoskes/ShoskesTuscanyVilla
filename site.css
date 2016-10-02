@@ -1,0 +1,116 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+}
+/*Page header CSS*/
+.page-header{
+    background-color:darkgrey;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 50px;
+}
+.container{
+    margin-top: 0px;
+}
+#cursive{
+    font-family: 'Pacifico', cursive;
+}
+/*Navbar CSS*/
+#navvy{
+    text-align:center;
+}
+.navbar-nav{
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/*First row css*/
+
+#home-away{
+    float: none;
+    text-align: center;
+    display: inline-block;
+    background-color:slategrey;
+    width: 500px;
+    margin-top:200px;
+    color: antiquewhite;
+}
+
+#home-away h2{
+    text-align: center;
+    font-size: 16px;
+}
+
+#home-away h3{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom:5px;
+}
+
+#showcase {
+    background-image: url('images/3b-348x348.jpg');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 800px;
+    text-align: center;
+}
+#versilla {
+    height: 600px;
+    background-image: url('images/Versilia.jpg');
+}
+
+#versilla-box{
+    float: none;
+    text-align: center;
+    display: inline-block;
+    background-color:lightgray;
+    margin-left: 100px;
+    margin-top: 200px;
+    padding: 10px;
+}
+
+#versilla-box h2{
+    text-align: center;
+    font-size: 16px;
+}
+
+#versilla-box h3{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom:5px;
+}
+
+/*Grid CSS*/
+.grid{
+    height: 300px;
+    width: 300px;
+}
+
+.blank-background {
+    background-image: url('images/img-thing.jpg');
+}
+
+.grey-textbox{
+    float: none;
+    text-align: center;
+    display: inline-block;
+    background-color:slategrey;
+    margin-top: 150px;
+    width: 100px;
+    margin-left: 100px;
+    color: antiquewhite;
+}
+
+.first-column {
+    background-image: url('images/42-348x348.jpg');
+}
+.second-column {
+    background-image: url('images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+}
+.third-column {
+    background-image: url('images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+}
+.fourth-column {
+    background-image: url('images/Villa-Vanna-231-348x348.jpg');
+}
